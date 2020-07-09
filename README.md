@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository, literally i don;t knwo what everyhing here goes on like. But still i want to learn !!!
+Okay I am Jaskaran Singh Bhalla a grade 12 student aiming to crack iit jee and my soul goal remains to be a developer at google.
+I commit this 
